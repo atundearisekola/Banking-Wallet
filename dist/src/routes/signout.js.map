@@ -1,0 +1,1 @@
+{"version":3,"file":"signout.js","sourceRoot":"","sources":["../../../src/routes/signout.ts"],"names":[],"mappings":";;;;;;AAAA,sDAA8B;AAE9B,MAAM,MAAM,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAOb,+BAAa;AALhC,MAAM,CAAC,IAAI,CAAC,oBAAoB,EAAE,CAAC,GAAG,EAAE,GAAG,EAAE,EAAE;IAC7C,GAAG,CAAC,OAAO,GAAG,IAAI,CAAC;IACnB,GAAG,CAAC,IAAI,CAAC,EAAE,CAAC,CAAC;AACf,CAAC,CAAC,CAAC"}
